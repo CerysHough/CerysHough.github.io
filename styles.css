@@ -195,6 +195,21 @@ hr {
     animation: wobble-hor-bottom 0.8s both;
 }
 
+.pepper {
+
+    box-shadow: 0px 0px 20px 5px #a7a7a794;
+    display: block;
+    margin:auto;
+    width:80%;
+}
+
+.pep {
+    margin:80px 0
+}
+
+.p2cont {
+    margin-bottom:40px;
+}
 .tandp {
     display:flex;
 }
@@ -206,7 +221,6 @@ hr {
 
 .picdiv {
     width:50%;
-    float:left;
     display: inline-flex;
 
 }
@@ -327,7 +341,6 @@ h4 {
 
 .picdiv {
     width:100%;
-    float:left;
     display: inline-flex;
     margin: 30px; 0;
 
@@ -430,7 +443,6 @@ h4 {
 
 .picdiv {
     width:100%;
-    float:left;
     display: inline-flex;
     margin: 30px; 0;
 
